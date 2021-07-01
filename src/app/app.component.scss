@@ -1,0 +1,15 @@
+.main-container {
+    display: flex;
+    padding: 100px 200px 100px 200px;
+    .left-form-container {
+        width: 50%;
+        height: 400px;
+        text-align: center;
+        border: 1px solid black;
+    }
+    .right-color-code-container {
+        height: 400px;
+        width: 50%;
+        border: 1px solid black;
+    }
+}
